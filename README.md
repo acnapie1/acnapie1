@@ -5,6 +5,8 @@
 <p>👩🏻‍🌾I am hoping to work remotely in web development so I can continue to manage my farm after I graduate🐐</p>
 <p>🐈I am a cat mom to two handsome boys🐈‍⬛</p>
 <p>⌨️I have experience in Javascript, Python, Adobe programs (photoshop, indesign, and illustrator), Figma, and Github🖱️</p>
+<p>🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
+― Vincent Van Gogh🌙</p>
 
 
 <!--
