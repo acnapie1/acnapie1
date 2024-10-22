@@ -1,4 +1,11 @@
 ## Hello, I am Abby
+![image](https://github.com/user-attachments/assets/31aa6e35-26d0-4aea-8f58-4ccbcc4261a6)
+
+<p>👩🏻‍💻I am a full-stack web development student at Arizona State University🧠</p>
+<p>👩🏻‍🌾I am hoping to work remotely in web development so I can continue to manage my farm after I graduate🐐</p>
+<p>🐈I am a cat mom to two handsome boys🐈‍⬛</p>
+<p>⌨️I have experience in Javascript, Python, Adobe programs (photoshop, indesign, and illustrator), Figma, and Github🖱️</p>
+
 
 <!--
 **acnapie1/acnapie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
