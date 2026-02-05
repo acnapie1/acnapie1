@@ -1,5 +1,5 @@
 ## Hello, I am Abby
-![image](https://github.com/user-attachments/assets/31aa6e35-26d0-4aea-8f58-4ccbcc4261a6)
+
 
 <p>👩🏻‍💻I am a full-stack web development student at Arizona State University🧠</p>
 <p>👩🏻‍🌾I am hoping to work remotely in web development so I can continue to manage my farm after I graduate🐐</p>
