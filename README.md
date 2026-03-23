@@ -69,5 +69,5 @@ brand.
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/4257" width="350"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300"/>
 </p>
