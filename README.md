@@ -68,6 +68,6 @@ brand.
 <br>- 📧 Email: acnapier936@gmail.com  
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
-<p align="center">
-  <img src="https://i.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="350" alt="cute animated cartoon cat"/>
+<p align="left">
+  <img src="https://i.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="200" alt="cute animated cartoon cat"/>
 </p>
