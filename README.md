@@ -41,7 +41,7 @@ This project was created for educational purposes and advertises a mock ski reso
 
 <br>- 🛠️ Tech Used: HTML • CSS
 <br>-🔗 Link: https://acnapie1.github.io/final-project/index.html
-<br>-Repository: https://github.com/acnapie1/final-project
+<br>-🗂️ Repository: https://github.com/acnapie1/final-project
 
 ### 😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
 -Slime Combine is an interactive, single-page web experience that allows users to
@@ -52,7 +52,7 @@ content, and JavaScript-based front-end functionality.
 
 <br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>-🔗 Link: https://acnapie1.github.io/GIT_417_Final/
-<br>-Repository: https://github.com/acnapie1/GIT_417_Final
+<br>-🗂️ Repository: https://github.com/acnapie1/GIT_417_Final
 
 ### 💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
 -Luxury Nails is an elegant, high-end salon website designed to encourage visitors to
@@ -62,12 +62,12 @@ This project was created for educational purposes and represents a mock luxury n
 brand.
 <br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>-🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
-<br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
+<br>-🗂️ Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
 ## 🤝 Connect With Me
 <br>- 📧 Email: acnapier936@gmail.com  
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
-<p align="left">
+<p align="right">
   <img src="https://i.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="200" alt="cute animated cartoon cat"/>
 </p>
