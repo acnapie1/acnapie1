@@ -68,5 +68,7 @@ brand.
 <br>- 📧 Email: acnapier936@gmail.com  
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
-<div class="tenor-gif-embed" data-postid="12595478311725463601" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-and-coffee-gif-12595478311725463601">Cat And Coffee Sticker</a>from <a href="https://tenor.com/search/cat+and+coffee-stickers">Cat And Coffee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="(https://tenor.com/paBAs9NvVlJ.gif)" width="350"/>
+</p>
 
