@@ -44,7 +44,7 @@ This project was created for educational purposes and advertises a mock ski reso
 **🛠️ Tech Used**  
 HTML • CSS
 
-<br>-Live Link: https://acnapie1.github.io/final-project/index.html
+<br>-🔗 Link: https://acnapie1.github.io/final-project/index.html
 <br>-Repository: https://github.com/acnapie1/final-project
 
 ### 😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
@@ -55,8 +55,10 @@ playful visuals with functional e-commerce features.
 Created for educational purposes, this project focuses on user interaction, dynamic
 content, and JavaScript-based front-end functionality.
 
-<br>-Tech used: JavaScript, CSS, HTML
-<br>-Live Link: https://acnapie1.github.io/GIT_417_Final/
+**🛠️ Tech Used**  
+HTML • CSS • JavaScript
+
+<br>-🔗 Link: https://acnapie1.github.io/GIT_417_Final/
 <br>-Repository: https://github.com/acnapie1/GIT_417_Final
 
 ### 💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
@@ -67,8 +69,10 @@ appeal, and reducing bounce rate through interactive features.
 This project was created for educational purposes and represents a mock luxury nail salon
 brand.
 
-<br>-Tech used: JavaScript, CSS, HTML
-<br>-Live Link: https://acnapie1.github.io/GIT_418_Final_Napier/
+**🛠️ Tech Used**  
+HTML • CSS • JavaScript
+
+<br>-🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
 ## Connect With Me
