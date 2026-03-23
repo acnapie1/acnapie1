@@ -65,9 +65,10 @@ brand.
 <br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
 ## 🤝 Connect With Me
-- 📧 Email: acnapier936@gmail.com  
+<br>- 📧 Email: acnapier936@gmail.com  
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="350"/>
 </p>
+
