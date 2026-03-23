@@ -1,23 +1,42 @@
 
-Hi, I'm Abby Napier
-<br>I am a Full Stack Web Developer
+#Hi, I'm Abby Napier
+<br>#I am a Full Stack Web Developer</b>
 <br>---
-<b>About Me</b>
+
+<br>About Me
 <p>
-<br>-I’m currently learning: How to code AI. 
-<br>-I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
-<br>-I’m open to: freelance and job opportunities
-<br>-More about me:
+<br>-🧠 I’m currently learning: How to code AI. 
+<br>-📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
+<br>-👋 I’m open to: freelance and job opportunities
+<br>-👀 More about me:
 
 <br><p>🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
 <br>― Vincent Van Gogh🌙</p>
 <br>---
-<br><b>Skills</b>
-<br>-Languages: HTML, CSS, JavaScript, Python, Java, SQL
-<br>-Tools: GitHub, Figma, VS Code, Adobe(Photoshop, Premier Pro, Illustrator, InDesign, After Effects)
+
+### Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+### Adobe
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
+
 <br>---
 <br><b>Featured Projects</b>
-<br>Crafting a Digital Resort Experience: Chalet Blanc in the Swiss Alps
+<br>🗻 Crafting a Digital Resort Experience: Chalet Blanc in the Swiss Alps
 
 <br>-This website captures the beauty of the Swiss Alps while promoting a luxury ski resort
 experience. The goal of the project was to design a visually compelling, easy-to-navigate,
@@ -28,7 +47,7 @@ This project was created for educational purposes and advertises a mock ski reso
 <br>-Live Link: https://acnapie1.github.io/final-project/index.html
 <br>-Repository: https://github.com/acnapie1/final-project
 
-<br>Build, Play, Shop — Exploring Slime Combine’s UX & Features
+<br>😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
 
 <br>-Slime Combine is an interactive, single-page web experience that allows users to
 customize and purchase slime online. Designed for a mock company, the project balances
@@ -40,7 +59,7 @@ content, and JavaScript-based front-end functionality.
 <br>-Live Link: https://acnapie1.github.io/GIT_417_Final/
 <br>-Repository: https://github.com/acnapie1/GIT_417_Final
 
-<br>Crafting Elegance Online — Luxury Nails Salon Web Design
+<br>💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
 
 <br>-Luxury Nails is an elegant, high-end salon website designed to encourage visitors to
 explore services and book appointments. The site focuses on user engagement, visual
@@ -58,17 +77,4 @@ brand.
 </p>
 
 
-**acnapie1/acnapie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
