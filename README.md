@@ -4,12 +4,12 @@
 
 ## About Me
 
--🧠 I’m currently learning: How to code AI. 
--📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
--👋 I’m open to: freelance and job opportunities
--👀 More about me: I am a dedicated cat mom who enjoys farming and art.
+<br>-🧠 I’m currently learning: How to code AI. 
+<br>-📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
+<br>-👋 I’m open to: freelance and job opportunities
+<br>-👀 More about me: I am a dedicated cat mom who enjoys farming and art.
 🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
-― Vincent Van Gogh🌙
+<br>― Vincent Van Gogh🌙
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,8 +41,8 @@ This project was created for educational purposes and advertises a mock ski reso
 
 **🛠️ Tech Used**  
 HTML • CSS
--🔗 Link: https://acnapie1.github.io/final-project/index.html
--Repository: https://github.com/acnapie1/final-project
+<br>-🔗 Link: https://acnapie1.github.io/final-project/index.html
+<br>-Repository: https://github.com/acnapie1/final-project
 
 ### 😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
 -Slime Combine is an interactive, single-page web experience that allows users to
@@ -53,8 +53,8 @@ content, and JavaScript-based front-end functionality.
 
 **🛠️ Tech Used**  
 HTML • CSS • JavaScript
--🔗 Link: https://acnapie1.github.io/GIT_417_Final/
--Repository: https://github.com/acnapie1/GIT_417_Final
+<br>-🔗 Link: https://acnapie1.github.io/GIT_417_Final/
+<br>-Repository: https://github.com/acnapie1/GIT_417_Final
 
 ### 💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
 -Luxury Nails is an elegant, high-end salon website designed to encourage visitors to
@@ -65,11 +65,11 @@ brand.
 
 **🛠️ Tech Used**  
 HTML • CSS • JavaScript
--🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
--Repository: https://github.com/acnapie1/GIT_418_Final_Napier
+<br>-🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
+<br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
 ## 🤝 Connect With Me
-- 📧 Email: acnapier936@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
+<br>- 📧 Email: acnapier936@gmail.com  
+<br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
 
