@@ -1,9 +1,9 @@
 
-#Hi, I'm Abby Napier
-<br>#I am a Full Stack Web Developer</b>
+# Hi, I'm Abby Napier
+# I am a Full Stack Web Developer</b>
 <br>---
 
-<br>About Me
+## About Me
 <p>
 <br>-🧠 I’m currently learning: How to code AI. 
 <br>-📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
@@ -14,7 +14,7 @@
 <br>― Vincent Van Gogh🌙</p>
 <br>---
 
-### Languages
+## Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,12 +22,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
+## Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-### Adobe
+## Adobe
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
@@ -35,8 +35,9 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
 
 <br>---
-<br><b>Featured Projects</b>
-<br>🗻 Crafting a Digital Resort Experience: Chalet Blanc in the Swiss Alps
+## Featured Projects
+
+### 🗻 Crafting a Digital Resort Experience: Chalet Blanc in the Swiss Alps
 
 <br>-This website captures the beauty of the Swiss Alps while promoting a luxury ski resort
 experience. The goal of the project was to design a visually compelling, easy-to-navigate,
@@ -47,7 +48,7 @@ This project was created for educational purposes and advertises a mock ski reso
 <br>-Live Link: https://acnapie1.github.io/final-project/index.html
 <br>-Repository: https://github.com/acnapie1/final-project
 
-<br>😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
+### 😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
 
 <br>-Slime Combine is an interactive, single-page web experience that allows users to
 customize and purchase slime online. Designed for a mock company, the project balances
@@ -59,7 +60,7 @@ content, and JavaScript-based front-end functionality.
 <br>-Live Link: https://acnapie1.github.io/GIT_417_Final/
 <br>-Repository: https://github.com/acnapie1/GIT_417_Final
 
-<br>💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
+### 💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
 
 <br>-Luxury Nails is an elegant, high-end salon website designed to encourage visitors to
 explore services and book appointments. The site focuses on user engagement, visual
@@ -71,7 +72,8 @@ brand.
 <br>-Live Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 <br>---
-<br><b>Connect With Me</b>
+
+## Connect With Me
 <br>-Email:
 <br>-LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 </p>
