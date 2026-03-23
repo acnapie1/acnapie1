@@ -8,7 +8,7 @@
 <br>-📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
 <br>-👋 I’m open to: freelance and job opportunities
 <br>-👀 More about me: I am a dedicated cat mom who enjoys farming and art.
-🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
+<br><br>🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
 <br>― Vincent Van Gogh🌙
 
 ## Languages
@@ -39,8 +39,7 @@ experience. The goal of the project was to design a visually compelling, easy-to
 and informative website that attracts potential skiers to a fictional resort, Chalet Blanc.
 This project was created for educational purposes and advertises a mock ski resort.
 
-**🛠️ Tech Used**  
-HTML • CSS
+<br>- 🛠️ Tech Used: HTML • CSS
 <br>-🔗 Link: https://acnapie1.github.io/final-project/index.html
 <br>-Repository: https://github.com/acnapie1/final-project
 
@@ -51,8 +50,7 @@ playful visuals with functional e-commerce features.
 Created for educational purposes, this project focuses on user interaction, dynamic
 content, and JavaScript-based front-end functionality.
 
-**🛠️ Tech Used**  
-HTML • CSS • JavaScript
+<br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>-🔗 Link: https://acnapie1.github.io/GIT_417_Final/
 <br>-Repository: https://github.com/acnapie1/GIT_417_Final
 
@@ -62,9 +60,7 @@ explore services and book appointments. The site focuses on user engagement, vis
 appeal, and reducing bounce rate through interactive features.
 This project was created for educational purposes and represents a mock luxury nail salon
 brand.
-
-**🛠️ Tech Used**  
-HTML • CSS • JavaScript
+<br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>-🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
