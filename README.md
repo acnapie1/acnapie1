@@ -69,5 +69,6 @@ brand.
 <br>- 💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq6GGv8Y4lY/giphy.gif" width="350"/>
+  <img src="assets/cat.gif" width="350" alt="cute cartoon cat"/>
 </p>
+
