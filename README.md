@@ -1,7 +1,6 @@
 
 # Hi, I'm Abby Napier
 # I am a Full Stack Web Developer</b>
-<br>---
 
 ## About Me
 <p>
@@ -12,7 +11,6 @@
 
 <br><p>🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
 <br>― Vincent Van Gogh🌙</p>
-<br>---
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +32,6 @@
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
 
-<br>---
 ## Featured Projects
 
 ### 🗻 Crafting a Digital Resort Experience: Chalet Blanc in the Swiss Alps
@@ -44,7 +41,9 @@ experience. The goal of the project was to design a visually compelling, easy-to
 and informative website that attracts potential skiers to a fictional resort, Chalet Blanc.
 This project was created for educational purposes and advertises a mock ski resort.
 
-<br>-Tech used: CSS, HTML
+**🛠️ Tech Used**  
+HTML • CSS
+
 <br>-Live Link: https://acnapie1.github.io/final-project/index.html
 <br>-Repository: https://github.com/acnapie1/final-project
 
@@ -71,7 +70,6 @@ brand.
 <br>-Tech used: JavaScript, CSS, HTML
 <br>-Live Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>-Repository: https://github.com/acnapie1/GIT_418_Final_Napier
-<br>---
 
 ## Connect With Me
 <br>-Email:
