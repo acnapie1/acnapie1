@@ -1,7 +1,7 @@
 
-##Hi, I'm Abby Napier
-##I am a Full Stack Web Developer
----
+Hi, I'm Abby Napier
+<br>I am a Full Stack Web Developer
+<br>---
 <b>About Me</b>
 <p>
 <br>-I’m currently learning: How to code AI. 
