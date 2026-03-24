@@ -4,10 +4,10 @@
 
 ## About Me
 
-<br>-🧠 I’m currently learning: How to code AI. 
-<br>-📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
-<br>-👋 I’m open to: freelance and job opportunities
-<br>-👀 More about me: I am a dedicated cat mom who enjoys farming and art.
+<br>🧠 I’m currently learning: How to code AI. 
+<br>📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
+<br>👋 I’m open to: freelance and job opportunities
+<br>👀 More about me: I am a dedicated cat mom who enjoys farming and art.
 <br><br>🎨“I try more and more to be myself, caring relatively little whether people approve or disapprove.”
 <br>― Vincent Van Gogh🌙
 
@@ -39,9 +39,9 @@ experience. The goal of the project was to design a visually compelling, easy-to
 and informative website that attracts potential skiers to a fictional resort, Chalet Blanc.
 This project was created for educational purposes and advertises a mock ski resort.
 
-<br>- 🛠️ Tech Used: HTML • CSS
-<br>-🔗 Link: https://acnapie1.github.io/final-project/index.html
-<br>-🗂️ Repository: https://github.com/acnapie1/final-project
+<br>🛠️ Tech Used: HTML • CSS
+<br>🔗 Link: https://acnapie1.github.io/final-project/index.html
+<br>🗂️ Repository: https://github.com/acnapie1/final-project
 
 ### 😜 Build, Play, Shop — Exploring Slime Combine’s UX & Features
 -Slime Combine is an interactive, single-page web experience that allows users to
@@ -50,9 +50,9 @@ playful visuals with functional e-commerce features.
 Created for educational purposes, this project focuses on user interaction, dynamic
 content, and JavaScript-based front-end functionality.
 
-<br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
-<br>-🔗 Link: https://acnapie1.github.io/GIT_417_Final/
-<br>-🗂️ Repository: https://github.com/acnapie1/GIT_417_Final
+<br>🛠️ Tech Used: HTML • CSS  • JavaScript
+<br>🔗 Link: https://acnapie1.github.io/GIT_417_Final/
+<br>🗂️ Repository: https://github.com/acnapie1/GIT_417_Final
 
 ### 💅🏻 Crafting Elegance Online — Luxury Nails Salon Web Design
 -Luxury Nails is an elegant, high-end salon website designed to encourage visitors to
@@ -60,14 +60,14 @@ explore services and book appointments. The site focuses on user engagement, vis
 appeal, and reducing bounce rate through interactive features.
 This project was created for educational purposes and represents a mock luxury nail salon
 brand.
-<br>- 🛠️ Tech Used: HTML • CSS  • JavaScript
-<br>-🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
-<br>-🗂️ Repository: https://github.com/acnapie1/GIT_418_Final_Napier
+<br>🛠️ Tech Used: HTML • CSS  • JavaScript
+<br>🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
+<br>🗂️ Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
 ## 🤝 Connect With Me
-<br>- 📧 Email: acnapier936@gmail.com  
-<br>-  💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
-<br>-  🖱️ My Website: placeholder.com
+<br>📧 Email: acnapier936@gmail.com  
+<br>💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
+<br>🖱️ My Website: placeholder.com
 
 <p align="right">
   <img src="https://i.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="200" alt="cute animated cartoon cat"/>
