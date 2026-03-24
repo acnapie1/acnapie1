@@ -66,7 +66,7 @@ brand.
 
 ## 🤝 Connect With Me
 <br>📧 Email: acnapier936@gmail.com  
-<br>💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
+💼 LinkedIn: https://www.linkedin.com/in/abigail-napier-379579295/
 <br>🖱️ My Website: placeholder.com
 
 <p align="right">
