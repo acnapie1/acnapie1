@@ -4,7 +4,7 @@
 
 ## About Me
 
-<br>🧠 I’m currently learning: How to code AI. 
+🧠 I’m currently learning: How to code AI. 
 <br>📂 I’m working on: I am currently building a website called Starter Fin. It has all the information needed to start a fish tank. 
 <br>👋 I’m open to: freelance and job opportunities
 <br>👀 More about me: I am a dedicated cat mom who enjoys farming and art.
@@ -50,7 +50,7 @@ playful visuals with functional e-commerce features.
 Created for educational purposes, this project focuses on user interaction, dynamic
 content, and JavaScript-based front-end functionality.
 
-<br>🛠️ Tech Used: HTML • CSS  • JavaScript
+🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>🔗 Link: https://acnapie1.github.io/GIT_417_Final/
 <br>🗂️ Repository: https://github.com/acnapie1/GIT_417_Final
 
@@ -60,7 +60,7 @@ explore services and book appointments. The site focuses on user engagement, vis
 appeal, and reducing bounce rate through interactive features.
 This project was created for educational purposes and represents a mock luxury nail salon
 brand.
-<br>🛠️ Tech Used: HTML • CSS  • JavaScript
+🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>🗂️ Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
