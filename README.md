@@ -38,7 +38,7 @@
 experience. The goal of the project was to design a visually compelling, easy-to-navigate,
 and informative website that attracts potential skiers to a fictional resort, Chalet Blanc.
 This project was created for educational purposes and advertises a mock ski resort.
-🛠️ Tech Used: HTML • CSS
+<br>🛠️ Tech Used: HTML • CSS
 <br>🔗 Link: https://acnapie1.github.io/final-project/index.html
 <br>🗂️ Repository: https://github.com/acnapie1/final-project
 
@@ -48,7 +48,7 @@ customize and purchase slime online. Designed for a mock company, the project ba
 playful visuals with functional e-commerce features.
 Created for educational purposes, this project focuses on user interaction, dynamic
 content, and JavaScript-based front-end functionality.
-🛠️ Tech Used: HTML • CSS  • JavaScript
+<br>🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>🔗 Link: https://acnapie1.github.io/GIT_417_Final/
 <br>🗂️ Repository: https://github.com/acnapie1/GIT_417_Final
 
@@ -58,7 +58,7 @@ explore services and book appointments. The site focuses on user engagement, vis
 appeal, and reducing bounce rate through interactive features.
 This project was created for educational purposes and represents a mock luxury nail salon
 brand.
-🛠️ Tech Used: HTML • CSS  • JavaScript
+<br>🛠️ Tech Used: HTML • CSS  • JavaScript
 <br>🔗 Link: https://acnapie1.github.io/GIT_418_Final_Napier/
 <br>🗂️ Repository: https://github.com/acnapie1/GIT_418_Final_Napier
 
